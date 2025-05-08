@@ -361,12 +361,12 @@
         "uploaded = files.upload()\n"
       ],
       "metadata": {
-        "id": "5Bcuf9-4kq_-",
-        "outputId": "de0f0579-b098-4af0-da26-4e6d319d5794",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 73
-        }
+        },
+        "id": "5Bcuf9-4kq_-",
+        "outputId": "de0f0579-b098-4af0-da26-4e6d319d5794"
       },
       "execution_count": 17,
       "outputs": [
@@ -581,11 +581,11 @@
         "print(df.head(10))\n"
       ],
       "metadata": {
-        "id": "oZVW_F1wk9lC",
-        "outputId": "c94dd707-c699-455a-91b1-de9fde2d3c59",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "oZVW_F1wk9lC",
+        "outputId": "c94dd707-c699-455a-91b1-de9fde2d3c59"
       },
       "execution_count": 18,
       "outputs": [
